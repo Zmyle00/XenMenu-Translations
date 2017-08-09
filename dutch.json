@@ -1,5 +1,5 @@
 {
-	"_AUTHOR": "XenMenu",
+	"_AUTHOR": "7eye^^.",
 
 	"Chalet London": "Chalet London",
 	"House Script": "Huis Script",
@@ -445,16 +445,17 @@
 	"Font": "Lettertype",
 
 	"__comment": "Please update everything below.",
-	"Read Translation File": "Read Translation File",
-	"Flags": "Flags",
-	"Rainbow Fade": "Rainbow Fade",
-	"Rainbow Flicker": "Rainbow Flicker",
-	"Vehicle Fly Mode": "Vehicle Fly",
-	"Vehicle Fly Speed": "Vehicle Fly Speed",
-	"Speed Boost": "Speed Boost",
-	"Respray": "Respray",
-	"Respray_tooltip": "Transforms vehicle appearence.",
-	"Primary Colour": "Primary Colour",
+	"Read Translation File": "Lees Translatiedocument",
+	"Flags": "Gemarkeerde",
+	"Rainbow Fade": "Regenboog Vervaging",
+	"Rainbow Flicker": "Flikkerende Regenboog
+	"Vehicle Fly Mode": "Vliegend Voertuig",
+	"Vehicle Fly Speed": "Vliegsnelheid Voertuig",
+	"Speed Boost": "Snelheidsboost",
+	"Respray": "Overspuiten",
+	"Respray_tooltip": "Transformeert uiterlijk voertuig.",
+	
+	"Primary Colour": "Primaire Kleur",
 	"Secondary Colour": "Secondary Colour",
 	"Chrome": "Chrome",
 	"Classic": "Classic",
