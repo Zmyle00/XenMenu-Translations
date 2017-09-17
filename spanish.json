@@ -642,7 +642,7 @@
   	"~c~Drop Stealth Bags_tooltip": "Esto es una opcion de VIP, Actualiza al VIP en nuestra web https://xenmenu.com Para desbloquear Bolsas de dinero y mas!",
   	"Drop Delay": "Retraso de Drop",
   	"Money Drop Bypass": "Dar Dinero por Bypass",
-  	"Money Drop Bypass": "No es necesario peroo podria evitar baneos. Darse Dinero sin esto podria considerarse inseguro. Sin Embargo, si otros no pueden coger sus bolsas de dinero , considere desabilitar esta opcion.",
+  	"Money Drop Bypass_tooltip": "No es necesario pero podria evitar baneos. Darse Dinero sin esto podria considerarse inseguro. Sin Embargo, si otros no pueden coger sus bolsas de dinero , considere desabilitar esta opcion.",
   	"Stealth Money": "Dinero Sigiloso",
   	"Stealth Money_tooltip": "Esto es recomendable si algunas herramientas muestran\"ERROR\" o \"DESCONOCIDO\".",
   	"Smash": "Aplastar"
